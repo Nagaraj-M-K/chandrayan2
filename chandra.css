@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(227, 227, 246);
+    padding: 10px;
+    border-style: solid;
+}
+.head{
+    color: rgb(244, 96, 4);
+    text-align: center;
+    padding: 10px;
+    border-style: solid black 10px;
+    background-color: rgb(223, 187, 28);
+    
+    
+ }
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+ }
+.h3{
+    color: rgb(255, 0, 0);
+}
+.contain{
+    align-content: center;
+    justify-content: center;
+}
+img{
+    float:left;
+    padding-right: 10px;
+}
+.text{
+
+    padding-left: 5%;
+}
